@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconLords/Why-are-we-here-to-suffer/main/Bacon%20Hub%20Main%20Loader"))()
